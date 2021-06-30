@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpmaciasg
-- 👀 I’m interested in backend develpment and databases
-- 🌱 I’m currently learning cloud devops
+- 👀 I’m interested in backend development and databases
+- 🌱 I’m currently learning devops
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me https://www.linkedin.com/in/jpmaciasg/
 
